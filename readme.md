@@ -36,8 +36,11 @@ Hypervisor gives multiple useres simulataneous access to computers that perform 
 -Compiled languages convert directly into machine code so that the processor can execute. It gives developers more control over hardware aspects like memory management and CPU usage. 
 ## Career Exploration
 ### Handshake
+I was familiar with Handshake having used it at my alma mater. Creating a new profile with my career focus being in IT was a really good change. I got to see what qualifications employers are looking for.
 ### Bureau of Labor Statistics
+I was unfamiliar with the Bureau of Labor Statistics. I like how it breaks down what the projections are in terms of job growth for the job type. I saw the job Information Security Analyst that ingtrigued me. It will experience 31% from 2019-2029.
 ### Certifications
+ComptTIA- is a certification that I know I will need when I decide to go into Cybersecurity. According to their site, "It will validate an IT professional’s ability to proactively defend and continuously improve the security of an organization." It seems to be an advanced certification being that it requires Minimum of 4 years of hands-on information security or related experience. 
 ### Certificates and Degrees
 ### Co-ops / Internships
 ### Industry Associations / Student Organizations
