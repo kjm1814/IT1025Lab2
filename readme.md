@@ -44,8 +44,14 @@ ComptTIA- is a certification that I know I will need when I decide to go into Cy
 ### Certificates and Degrees
 I took the Software development quiz that Tri-C offers and it said that I would be good in Cybersecurity, Networking Hardware and Networking Software programs. After reading about the program, I will be pursing an Associate of Applied Business in Cybersecurity degree. 
 ### Co-ops / Internships
+In order for a student to be considered "co-op ready", they have to meet the following requirements: 
 
+Currently enrolled at Cuyahoga Community College
+Completed 12 credit hours of college coursework (includes transfer credits) with at least two courses related to your major field
+GPA of 2.75 or higher
+
+With a co-op, you get real world experience that also counts as course credit. It looks great on a resumé as it shows employers that you know how to apply what you have learned in the classroom to the real world. 
 ### Industry Associations / Student Organizations
-
+A club that I would be interested in is the Cybersecurity club at the west campus. I 
 ## Conclusion
 Include your conclusion here... refer to lab 1 for an example if necessary.
