@@ -23,12 +23,17 @@ Operating Systems manage the hardware and create the interface between the hardw
 Enterprise Resource Planning(ERP) was developed to bring together an entire organization under one program. Microsoft, Oracle and SAP have their own ERP systems.
 ## Virtualization
 ### Problems Solved by Virtualization
+Virtualization helps to reduce the number of physical servers need to provide necessary services. This allows for the computer to use its full capabilities. 
 ### Role of Hypervisor
-
+Hypervisor gives multiple useres simulataneous access to computers that perform batch processing.
 ## Python
 ### Advantages of Python
+-Python has syntax that allows developers to write programs with fewer lines than some other programming languages.
+-Python runs on an interpreter system, meaning that code can be executed as soon as it is written. This means that prototyping can be very quick.
+-Python uses new lines to complete a command, as opposed to other programming languages which often use semicolons or parentheses.
 ### Interpreted vs. Compiled Language
-
+-With Interpreted languages, the source code is not directly translated by the target machine. It is also slower than compiled languages. 
+-Compiled languages convert directly into machine code so that the processor can execute. It gives developers more control over hardware aspects like memory management and CPU usage. 
 ## Career Exploration
 ### Handshake
 ### Bureau of Labor Statistics
