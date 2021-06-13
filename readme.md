@@ -42,7 +42,9 @@ I was unfamiliar with the Bureau of Labor Statistics. I like how it breaks down 
 ### Certifications
 ComptTIA- is a certification that I know I will need when I decide to go into Cybersecurity. According to their site, "It will validate an IT professional’s ability to proactively defend and continuously improve the security of an organization." It seems to be an advanced certification being that it requires Minimum of 4 years of hands-on information security or related experience. 
 ### Certificates and Degrees
+I took the Software development quiz that Tri-C offers and it said that I would be good in Cybersecurity, Networking Hardware and Networking Software programs. After reading about the program, I will be pursing an Associate of Applied Business in Cybersecurity degree. 
 ### Co-ops / Internships
+
 ### Industry Associations / Student Organizations
 
 ## Conclusion
