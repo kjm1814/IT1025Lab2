@@ -5,6 +5,11 @@ Include your executive summary here... refer back to lab 1 executive summary if 
 
 ## Data Representation
 ### Decimal, Binary and Hexadecimal
+Decimal system uses 10 as a Base; Represents numbers using 0-9
+
+Binary system uses 2 as a Base; Represents numbers using 0-1
+
+Hexadecimal system uses 16 as a Base;  Represents numbers using 10 digits(0-9) and 6 characters(A-F) 
 ### Hexadecimal Color Representation
 
 ## Software
