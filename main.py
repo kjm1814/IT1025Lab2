@@ -5,3 +5,8 @@
 # next use the print function to output the word "Hello " and then your name
 # remember to start with w3schools to learn the concepts, note that the 
 # concatenation characer is the "+" sign and, include a space after the word "Hello".
+
+name = "Kayla"
+x = "Hello " 
+z = x + name
+print (z)
