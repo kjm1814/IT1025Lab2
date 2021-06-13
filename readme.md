@@ -1,7 +1,7 @@
 ## Kayla Moss / 06/13/2021
 
 ## Executive Summary
-Include your executive summary here... refer back to lab 1 executive summary if helpful
+Lab 2 introduced us to coding and our IT opporunities at Cuyahoga Community College. 
 
 ## Data Representation
 ### Decimal, Binary and Hexadecimal
