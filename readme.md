@@ -1,7 +1,7 @@
 ## Kayla Moss / 06/13/2021
 
 ## Executive Summary
-Lab 2 introduced us to coding and our IT opporunities at Cuyahoga Community College. 
+Lab 2 introducs us to coding and our IT opporunities at Cuyahoga Community College.  We also will learn about Python and how to convert amongst different data representation methods 
 
 ## Data Representation
 ### Decimal, Binary and Hexadecimal
@@ -52,6 +52,6 @@ GPA of 2.75 or higher
 
 With a co-op, you get real world experience that also counts as course credit. It looks great on a resumé as it shows employers that you know how to apply what you have learned in the classroom to the real world. 
 ### Industry Associations / Student Organizations
-A club that I would be interested in is the Cybersecurity club at the west campus. I 
+A club that I would be interested in is the Cybersecurity club at the west campus. As I declare my major in Cybersecurity, I know it will be beneficial to network and learn from other students interested in Cybersecurity. 
 ## Conclusion
-Include your conclusion here... refer to lab 1 for an example if necessary.
+Lab 2 was challenging and fun. Learning about Hexadecimal and how to convert was really cool. Having heard about Python, it was amazing to actually use the system. Having to read about certifications and potential job opporunities was introspective. It helped me to narrow down what I would like my major to be as I continue at Tri-C. 
